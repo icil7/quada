@@ -1,9 +1,9 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
+"JSON_POPUP_WAIT" : "Server Ready",
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
