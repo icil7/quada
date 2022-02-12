@@ -3,8 +3,8 @@
 
 "JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
 
-"MODE_NO_ADS" : false,
-"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : false,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
@@ -22,9 +22,9 @@
 
 "INTERS_COUNT_WEB" : 5,
 
-"ENABLE_STRAP" : true,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "STARAPPID" : "YOUR_APP_ID",
 
